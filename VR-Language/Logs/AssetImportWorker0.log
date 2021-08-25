@@ -279,3 +279,28 @@ Received Import Request.
 Start importing Assets/HDRPFurniturePack/Succulent_Planter/Succulent_Planter_Ceramic.prefab using Guid(9566118a308257f48b491bc9272d187c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'caba4e8d28c4261743685a80d79034de') in 0.031714 seconds
   Import took 0.038169 seconds .
 
+========================================================================
+Received Prepare
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 8.70 ms, found 10 plugins.
+Preloading 2 native plugins for Editor in 0.16 ms.
+Unloading 28 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.1 MB.
+System memory in use after: 57.2 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2618.
+Total: 6.231900 ms (FindLiveObjects: 0.299600 ms CreateObjectMapping: 0.049800 ms MarkObjects: 5.824000 ms  DeleteObjects: 0.057400 ms)
+
+========================================================================
+Received Prepare
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 6.44 ms, found 10 plugins.
+Preloading 2 native plugins for Editor in 0.10 ms.
+Unloading 28 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.1 MB.
+System memory in use after: 57.2 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2618.
+Total: 6.036700 ms (FindLiveObjects: 0.381300 ms CreateObjectMapping: 0.116900 ms MarkObjects: 5.425700 ms  DeleteObjects: 0.111400 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
